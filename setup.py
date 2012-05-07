@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.sodonnell.VMReport'
 VERSION = '1.0'
 AUTHOR = 'Steven O\'Donnell'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.sodonnell']
 PACKAGES = ['ZenPacks', 'ZenPacks.sodonnell', 'ZenPacks.sodonnell.VMReport']
 INSTALL_REQUIRES = ['ZenPacks.vmware.VirtualMachines>=1.2']
